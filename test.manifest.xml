@@ -1,0 +1,15 @@
+<manifest>
+
+    <main class>com.Richturtle7.bots.test</main>
+    <name>Testing Bot</name>
+    <version>1.0</version>
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>Testing</category>
+    </categories>
+
+
+</manifest>
